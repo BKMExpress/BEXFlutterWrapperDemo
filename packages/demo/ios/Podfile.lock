@@ -1,0 +1,22 @@
+PODS:
+  - bex_flutter (0.1.0):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - bex_flutter (from `.symlinks/plugins/bex_flutter/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  bex_flutter:
+    :path: ".symlinks/plugins/bex_flutter/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  bex_flutter: 026adc33814fff602e07944c7e8ea96e899f26a7
+  Flutter: 71a624a5bc0c04062bf19101d501e466baf2fb47
+
+PODFILE CHECKSUM: be4663332fca77601dd6736e3676fe47177084e1
+
+COCOAPODS: 1.17.0

@@ -1,0 +1,60 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+**/doc/api/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+pubspec_overrides.yaml
+**/coverage/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Android
+**/android/**/local.properties
+**/android/**/.gradle/
+**/android/**/captures/
+**/android/**/key.properties
+**/android/**/*.jks
+**/android/**/*.keystore
+**/android/**/gradle-wrapper.jar
+
+# iOS / macOS
+**/ios/**/Pods/
+**/ios/**/.symlinks/
+**/ios/**/Flutter/Flutter.framework
+**/ios/**/Flutter/Flutter.podspec
+**/ios/**/Flutter/Generated.xcconfig
+**/ios/**/Flutter/flutter_export_environment.sh
+**/ios/**/Flutter/ephemeral/
+**/ios/Frameworks/BKMExpressSDK.xcframework/
+**/ios/Frameworks/*.zip
+**/DerivedData/
+**/xcuserdata/
+**/dgph
+*.mode1v3
+*.mode2v3
+*.moved-aside
+*.pbxuser
+*.perspectivev3
+**/*sync/
+**/.generated/
+**/Pods/
+**/ServiceDefinitions.json
+
+# Misc
+*.log
+*.swp
+*~

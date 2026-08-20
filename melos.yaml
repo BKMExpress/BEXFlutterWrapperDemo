@@ -1,0 +1,9 @@
+name: bex_flutter_workspace
+repository: https://github.com/BKMExpress/bex-flutter
+
+packages:
+  - packages/**
+
+scripts:
+  analyze:
+    run: melos exec -- flutter analyze
